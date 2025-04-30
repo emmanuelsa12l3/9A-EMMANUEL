@@ -23,3 +23,25 @@ Gestión de proyectos: Ofrece herramientas para tareas, seguimiento de errores (
 Integración continua y despliegue: Se puede integrar con otras herramientas para pruebas automáticas y despliegues automáticos del software.
 
 Revisión de código: Los equipos pueden revisar y comentar cambios antes de que se integren en el proyecto principal.
+juanpablo 
+📉 Desventajas de GitHub:
+Privacidad limitada en el plan gratuito:
+Aunque ha mejorado, el plan gratuito todavía tiene ciertas limitaciones para proyectos privados, especialmente en entornos corporativos donde se manejan datos sensibles.
+
+Dependencia de conexión a Internet:
+GitHub es una plataforma basada en la nube, por lo que necesitas estar en línea para acceder a la mayoría de sus funcionalidades (pull requests, issues, etc.).
+
+Curva de aprendizaje para principiantes:
+Usuarios nuevos en Git y GitHub pueden encontrarlo confuso al principio. Comandos como merge, rebase o el manejo de conflictos pueden ser intimidantes.
+
+Costos en organizaciones grandes:
+Para equipos grandes o empresas, los planes pagos pueden volverse costosos, especialmente si se necesitan funciones avanzadas como GitHub Enterprise.
+
+Propiedad por Microsoft:
+Algunas personas y organizaciones desconfían del hecho de que GitHub pertenece a Microsoft, por cuestiones de control, privacidad o filosofía open-source.
+
+No ideal para grandes archivos binarios:
+Aunque existe Git LFS (Large File Storage), GitHub no está diseñado para manejar archivos binarios muy grandes como videos o datasets pesados.
+
+Interfaz web puede ser limitada:
+Aunque potente, ciertas tareas avanzadas de Git (como resolución compleja de conflictos) requieren el uso de la línea de comandos o herramientas externas.
