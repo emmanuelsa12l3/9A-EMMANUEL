@@ -6,3 +6,19 @@ HISTORIA
 En el intervalo entre la invención de Git en 2005 y el lanzamiento de GitHub en abril de 2008, los nuevos usuarios comenzaron a familiarizarse con el sistema Git, con su trabajo curado por el moderador principal y el ingeniero de software japonés.Junio ​​Hamano. Hamano se ofreció como voluntario para ayudar a gestionar el proyecto después de que Torvalds se alejara para centrarse en su trabajo con Linux. Si bien Torvalds es reconocido como el inventor de Git, cree que Hamano debería recibir la mayor parte del crédito por la evolución del sistema. A veces se refieren a Hamano como el "dictador benevolente" de Git, ya que sus decisiones suelen ser definitivas, y ha continuado gestionando el proyecto desde que Torvalds lo nombró en 2005.
 Otros ingenieros voluntarios también ayudaron a que Git fuera más accesible para diferentes sistemas operativos y nuevos usuarios. En 2007, uno de esos nuevos usuarios fue Tom Preston-Werner quien identificó que Git se beneficiaría de un sistema de alojamiento descentralizado para proyectos, código fuente e interacción con el usuario. Esta idea fue la que motivó la creación de GitHub.
 Preston-Werner se unió a sus compañeros desarrolladores Chris Wanstrath, Scott Chacon y PJ Hyett para crear la nueva plataforma. Mediante suscripciones de pago, el grupo creó GitHub en una época en la que no existían otros sistemas de almacenamiento en la nube de Git. Una vez que la noticia de la sencilla plataforma de código abierto de Git se extendió entre otros desarrolladores, GitHub despegó de inmediato. Empresas como Google , Facebook , Microsoft y Twitter (ahora X ) comenzaron a desarrollar proyectos en GitHub, y gran parte del trabajo de estas empresas es de código abierto .
+JUAN MANUEL CORREA JIMENEZ
+FUNCION
+GitHub es una plataforma de desarrollo colaborativo que permite almacenar, gestionar y compartir proyectos de software, principalmente mediante el uso del sistema de control de versiones Git.
+
+Funciones principales de GitHub:
+Control de versiones: Permite llevar un historial de cambios en el código, facilitando el seguimiento y la reversión de versiones anteriores.
+
+Colaboración: Varios desarrolladores pueden trabajar en el mismo proyecto al mismo tiempo, enviando cambios mediante "pull requests".
+
+Almacenamiento de código: Aloja repositorios de código fuente, ya sea de forma pública o privada.
+
+Gestión de proyectos: Ofrece herramientas para tareas, seguimiento de errores (issues), wikis y planificación de versiones.
+
+Integración continua y despliegue: Se puede integrar con otras herramientas para pruebas automáticas y despliegues automáticos del software.
+
+Revisión de código: Los equipos pueden revisar y comentar cambios antes de que se integren en el proyecto principal.
