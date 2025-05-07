@@ -45,3 +45,38 @@ Aunque existe Git LFS (Large File Storage), GitHub no está diseñado para manej
 
 Interfaz web puede ser limitada:
 Aunque potente, ciertas tareas avanzadas de Git (como resolución compleja de conflictos) requieren el uso de la línea de comandos o herramientas externas.
+
+
+EMMANUEL DAVID
+VENTAJAS DE GIT HUB
+1. Control de versiones con Git
+Permite rastrear todos los cambios en el código fuente.
+
+Facilita revertir a versiones anteriores si se introducen errores.
+
+2. Colaboración efectiva
+Los equipos pueden trabajar juntos en el mismo proyecto desde cualquier lugar.
+
+Pull requests permiten revisar y discutir cambios antes de fusionarlos.
+
+3. Gestión de proyectos
+Ofrece herramientas como issues, milestones y proyectos (kanban) para planificar y hacer seguimiento del trabajo.
+
+4. Integración continua y despliegue (CI/CD)
+Puedes automatizar pruebas y despliegues mediante GitHub Actions u otras herramientas integradas.
+
+5. Documentación y wikis
+Puedes documentar tu proyecto directamente en el repositorio con archivos README.md y wikis.
+
+6. Comunidad y código abierto
+Gran cantidad de proyectos de código abierto disponibles para aprender, contribuir o reutilizar.
+
+Fomenta el aprendizaje colaborativo.
+
+7. Seguridad
+GitHub escanea vulnerabilidades conocidas en dependencias.
+
+Permite establecer reglas de protección de ramas y requerimientos de revisión.
+
+8. Visibilidad y portafolio profesional
+Repositorios públicos pueden actuar como portafolio para mostrar tus habilidades a empleadores o colaboradores.
